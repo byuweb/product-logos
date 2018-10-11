@@ -1,6 +1,7 @@
 ---
 name: BYU Product Logos
 description: Logos of BYU-branded products, such as MyMap or Learning Suite
+type: images
 resources:
   - src: final/**
     dest: ./
