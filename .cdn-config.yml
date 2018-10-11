@@ -1,0 +1,12 @@
+---
+name: BYU Product Logos
+description: Logos of BYU-branded products, such as MyMap or Learning Suite
+resources:
+  - src: final/**
+    dest: ./
+  - src: working/**
+    dest: ./working/
+aliases:
+  redirect: false
+#  cache:
+#    immutable: true
